@@ -6,3 +6,4 @@
 
 在github.com上取得ssh URL 在Git GUI中可上传
 
+Git Bash 中 使用 git init 设置本地工作目录 
