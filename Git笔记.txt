@@ -1,0 +1,8 @@
+﻿ss---------2015年5月20日23:44:36
+安装Git 
+生成ssh key 并上传id_rsa.pub至github.com
+
+右键快捷方式可设置仓库默认目录
+
+在github.com上取得ssh URL 在Git GUI中可上传
+
